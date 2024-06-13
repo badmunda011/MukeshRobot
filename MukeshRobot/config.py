@@ -10,7 +10,7 @@ class Config(object):
     
     SUPPORT_CHAT =HEROKUBIN_01
     START_IMG =https://te.legra.ph/file/386fdbaf3f9a740f129da.jpg
-    EVENT_LOGS = ()  # Prints information like gbans, sudo promotes, AI enabled disable states that may help in debugging and shit
+    EVENT_LOGS =-1002093247039
     MONGO_DB_URI=mongodb+srv://BADMUNDA:BADMYDAD@badhacker.i5nw9na.mongodb.net/
     
 BOT_USERNAME =Test_robo_test_bot
@@ -34,7 +34,7 @@ BOT_USERNAME =Test_robo_test_bot
     NO_LOAD = []
     STRICT_GBAN = True
     TEMP_DOWNLOAD_DIRECTORY = "./"
-    WORKERS = 8
+    WORKERS =6
     
 
 class Production(Config):
