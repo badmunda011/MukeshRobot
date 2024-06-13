@@ -14,7 +14,7 @@ class Config(object):
     MONGO_DB_URI="mongodb+srv://BADMUNDA:BADMYDAD@badhacker.i5nw9na.mongodb.net/"
     
 BOT_USERNAME =Test_robo_test_bot
-    DATABASE_URL ="postgres://iarfggbc:Vxzh_kG7cxa1kHR5faxcd1kuA4R-UT9E@rosie.db.elephantsql.com/iarfggbc"
+    DATABASE_URL =postgres://iarfggbc:Vxzh_kG7cxa1kHR5faxcd1kuA4R-UT9E@rosie.db.elephantsql.com/iarfggbc
     CASH_API_KEY =hbnb
     TIME_API_KEY =nej
 
