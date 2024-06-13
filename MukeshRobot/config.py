@@ -4,7 +4,7 @@ class Config(object):
  
 
     API_ID = 27383453
-    API_HASH = 4c246fb0c649477cc2e79b6a178ddfaa
+    API_HASH ="4c246fb0c649477cc2e79b6a178ddfaa"
     TOKEN = 7394970820:AAF7_pWYaJ__LkL2PQ7dA7BhlbVvdsZUvoQ
     OWNER_ID = 6352107773
     
