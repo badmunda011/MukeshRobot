@@ -8,7 +8,7 @@ class Config(object):
     TOKEN ="7394970820:AAF7_pWYaJ__LkL2PQ7dA7BhlbVvdsZUvoQ"
     OWNER_ID = 6352107773
     
-    SUPPORT_CHAT =HEROKUBIN_01
+    SUPPORT_CHAT ="HEROKUBIN_01"
     START_IMG ="https://te.legra.ph/file/386fdbaf3f9a740f129da.jpg"
     EVENT_LOGS ="-1002093247039"
     MONGO_DB_URI="mongodb+srv://BADMUNDA:BADMYDAD@badhacker.i5nw9na.mongodb.net/"
