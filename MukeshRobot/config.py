@@ -13,10 +13,10 @@ class Config(object):
     EVENT_LOGS ="-1002093247039"
     MONGO_DB_URI="mongodb+srv://BADMUNDA:BADMYDAD@badhacker.i5nw9na.mongodb.net/"
     
-BOT_USERNAME =Test_robo_test_bot
-    DATABASE_URL =postgres://iarfggbc:Vxzh_kG7cxa1kHR5faxcd1kuA4R-UT9E@rosie.db.elephantsql.com/iarfggbc
-    CASH_API_KEY =hbnb
-    TIME_API_KEY =nej
+    BOT_USERNAME ="Test_robo_test_bot"
+    DATABASE_URL ="postgres://iarfggbc:Vxzh_kG7cxa1kHR5faxcd1kuA4R-UT9E@rosie.db.elephantsql.com/iarfggbc"
+    CASH_API_KEY ="hbnb"
+    TIME_API_KEY ="nej"
 
     # Optional fields
     BL_CHATS = [6898413162]  # List of groups that you want blacklisted.
