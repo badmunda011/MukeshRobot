@@ -9,12 +9,12 @@ class Config(object):
     OWNER_ID = 6352107773
     
     SUPPORT_CHAT =HEROKUBIN_01
-    START_IMG =https://te.legra.ph/file/386fdbaf3f9a740f129da.jpg
-    EVENT_LOGS =-1002093247039
-    MONGO_DB_URI=mongodb+srv://BADMUNDA:BADMYDAD@badhacker.i5nw9na.mongodb.net/
+    START_IMG ="https://te.legra.ph/file/386fdbaf3f9a740f129da.jpg"
+    EVENT_LOGS ="-1002093247039"
+    MONGO_DB_URI="mongodb+srv://BADMUNDA:BADMYDAD@badhacker.i5nw9na.mongodb.net/"
     
 BOT_USERNAME =Test_robo_test_bot
-    DATABASE_URL =postgres://iarfggbc:Vxzh_kG7cxa1kHR5faxcd1kuA4R-UT9E@rosie.db.elephantsql.com/iarfggbc
+    DATABASE_URL ="postgres://iarfggbc:Vxzh_kG7cxa1kHR5faxcd1kuA4R-UT9E@rosie.db.elephantsql.com/iarfggbc"
     CASH_API_KEY =hbnb
     TIME_API_KEY =nej
 
