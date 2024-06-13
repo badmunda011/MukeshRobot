@@ -3,10 +3,10 @@ class Config(object):
     LOGGER = True
  
 
-    API_ID =27383453
-    API_HASH= 4c246fb0c649477cc2e79b6a178ddfaa
-    TOKEN= 7394970820:AAF7_pWYaJ__LkL2PQ7dA7BhlbVvdsZUvoQ
-    OWNER_ID =6352107773
+    API_ID = 27383453
+    API_HASH = 4c246fb0c649477cc2e79b6a178ddfaa
+    TOKEN = 7394970820:AAF7_pWYaJ__LkL2PQ7dA7BhlbVvdsZUvoQ
+    OWNER_ID = 6352107773
     
     SUPPORT_CHAT =HEROKUBIN_01
     START_IMG =https://te.legra.ph/file/386fdbaf3f9a740f129da.jpg
